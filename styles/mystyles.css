@@ -1,0 +1,29 @@
+.bold{
+    font-weight: bold;
+}
+.normal{
+    font-weight: 100;
+}
+h1{
+    font-family:cursive;
+    color:lightblue;
+}
+h2{
+    font-family:fantasy;
+    color:darkslategrey;
+    font-weight: 100
+}
+span{
+    color: lightblue;
+}
+p{
+    font-family:cursive;
+    color:darksalmon
+}
+.underline{
+    text-decoration: underline;
+    font-weight: 100;
+}
+date{
+    color: lightblue;
+}

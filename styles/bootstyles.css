@@ -1,0 +1,32 @@
+.common{
+    background-color: lightblue;
+    border: solid 2px black;
+}
+.header{
+    top:5px;
+    left:5px;
+    right:5px;
+    height:200px
+}
+.mainbody{
+    top:216px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+    background-color: white;
+}
+.footer{
+    bottom:5px;
+    right: 5px;
+    left: 5px;
+    height: 87px;
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+}
+h5{
+    font-family: serif;
+    font-size: 30px;
+    color: white;
+}
